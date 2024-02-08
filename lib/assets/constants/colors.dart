@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const auth_dark = _383838;
+const auth_darkish = _9E9EA5;
+const auth_whitish = _F2F3F5;
+const auth_yell = _FFE054;
+const auth_yelwish = _FFF9D;
+const auth_gray = _D5D5D5;
+const auth_error = _F9524E;
+const errorish = _FEE;
+const grr = _F6F6F6;
+const _383838 = Color(0xFF383838);
+const _9E9EA5 = Color(0xFF9E9EA5);
+const _F2F3F5 = Color(0xFFF2F3F5);
+const _FFE054 = Color(0xFFFFE054);
+const _FFF9D = Color(0xFFFFF9DD);
+const _D5D5D5 = Color(0xFFD5D5D5);
+const _F9524E = Color(0xFFF9524E);
+const _FEE = Color(0xFFFFEEEE);
+const _F6F6F6 = Color(0xFFF6F6F6);

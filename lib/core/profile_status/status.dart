@@ -1,0 +1,1 @@
+enum ProfileStatus{pure,loading,succes}
